@@ -31,17 +31,15 @@
 
 .line_in_text {
     text-align: center;
-    border-bottom: 1px solid rgb(210, 210, 210);;
+    border-bottom: 1px solid rgb(210, 210, 210);
     line-height: 1px;
     margin: 10px 0 20px;
-    padding:0 10px;
+    padding: 0 10px;
     font-size: 10px;
     color: rgb(175, 173, 173);
 }
 
-.line_cover { 
-    background:#fff; 
-    padding:0 10px;
+.line_cover {
+    background: #fff;
+    padding: 0 10px;
 }
-
-
